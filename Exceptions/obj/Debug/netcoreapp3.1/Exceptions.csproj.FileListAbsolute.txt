@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\ASUS\Desktop\CA-Homework8\MyEduProject\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
